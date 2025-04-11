@@ -20,6 +20,10 @@
 		"url": "https://github.com/MurrayEfford/overdispsim"
 	},
 	{
+		"package": "secrRFS",
+		"url": "https://github.com/MurrayEfford/secrRFS"
+	},
+	{
 		"package": "secrdesign",
 		"url": "https://github.com/MurrayEfford/secrdesign"
 	}
