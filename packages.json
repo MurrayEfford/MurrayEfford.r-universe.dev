@@ -1,0 +1,26 @@
+[
+	{
+		"package": "secr",
+		"url": "https://github.com/MurrayEfford/secr"
+	},
+	{
+		"package": "secrlinear",
+		"url": "https://github.com/MurrayEfford/secrlinear"
+	},
+	{
+		"package": "openCR",
+		"url": "https://github.com/MurrayEfford/openCR"
+	},
+	{
+		"package": "ipsecr",
+		"url": "https://github.com/MurrayEfford/ipsecr"
+	},
+	{
+		"package": "overdispsim",
+		"url": "https://github.com/MurrayEfford/overdispsim"
+	},
+	{
+		"package": "secrdesign",
+		"url": "https://gitlab.com/MurrayEfford/secrdesign"
+	}
+]
